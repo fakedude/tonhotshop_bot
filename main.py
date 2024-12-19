@@ -3,7 +3,7 @@ from pytgcalls import PyTgCalls, idle
 from pytgcalls.types import AudioQuality, Browsers, MediaStream, VideoQuality
 
 app = Client(
-    'py-tgcalls',
+    'tonhotshop',
     api_id=123456789,
     api_hash='abcdef12345',
 )
