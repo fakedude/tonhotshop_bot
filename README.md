@@ -15,13 +15,13 @@ This project is a Telegram bot built using the Pyrogram library and PyTgCalls fo
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/fakedude/tonhotshop_bot.git
+   git clone https://github.com/fakedude/tonhotshop.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd telegram-bot
+   cd tonhotshop
    ```
 
 3. Install the required packages:
@@ -48,4 +48,4 @@ Feel free to submit issues or pull requests for improvements and bug fixes.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the AGPL License.

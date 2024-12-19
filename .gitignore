@@ -30,7 +30,7 @@ ENV/
 
 # IDEs and editors
 .idea/
-.vscode/
+# .vscode/
 *.swp
 *.swo
 *.swn
@@ -44,3 +44,5 @@ ENV/
 config.py
 *.session
 *.session-journal
+*.webm
+typings
