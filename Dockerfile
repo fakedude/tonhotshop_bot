@@ -8,7 +8,7 @@ COPY . /app
 WORKDIR /app
 
 RUN apt-get update && apt-get upgrade -y && \
-    apt-get install -y --no-install-recommends --no-install-suggests build-essential && \
+    apt-get install -y --no-install-recommends --no-install-suggests build-essential git && \
     pip install --no-cache-dir --upgrade -r /app/requirements.txt && \
     apt-get purge -y build-essential && apt-get autoremove -y && \
     apt-get install -y --no-install-recommends --no-install-suggests libstdc++6 libx11-6 nodejs ffmpeg && \
