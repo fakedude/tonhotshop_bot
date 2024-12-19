@@ -44,4 +44,4 @@ ENV/
 *.session
 *.session-journal
 *.webm
-typings
+typings/
