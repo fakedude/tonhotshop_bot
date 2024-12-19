@@ -41,7 +41,6 @@ ENV/
 .env.production.local
 
 # Project specific
-config.py
 *.session
 *.session-journal
 *.webm
