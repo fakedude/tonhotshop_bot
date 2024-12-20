@@ -12,7 +12,7 @@ multidict==6.1.0
 ntgcalls==1.2.3
 packaging==24.2
 propcache==0.2.1
-psutil==6.1.0
+psutil==6.1.1
 py-tgcalls @ git+https://github.com/pytgcalls/pytgcalls@7974362686cbf8944a49ff047b63b100fd47a21e
 pyaes==1.6.1
 pyrogrammod @ git+https://github.com/pyrogrammod/pyrogrammod@b158b28f8afa863a19640d67842d9d075e0a232f
